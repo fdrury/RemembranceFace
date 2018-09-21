@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="15" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="16" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="20" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="21" pc="268435483" symbol="onLayout"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="22" pc="268435520" symbol="onLayout"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="23" pc="268435537" symbol="onLayout"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="24" pc="268435547" symbol="onLayout"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="25" pc="268435578" symbol="onLayout"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="26" pc="268435609" symbol="onLayout"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="27" pc="268435627" symbol="onLayout"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="29" pc="268435652" symbol="onLayout"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="34" pc="268435754" symbol="onLayout"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="40" pc="268435798" symbol="onShow"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="44" pc="268435803" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="45" pc="268435807" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="46" pc="268435857" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="48" pc="268435867" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="49" pc="268435874" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="50" pc="268435891" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="51" pc="268435901" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="52" pc="268435926" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="53" pc="268435937" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="55" pc="268435950" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="56" pc="268435961" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="59" pc="268435974" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="60" pc="268436006" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="61" pc="268436013" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="64" pc="268436034" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="66" pc="268436099" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="67" pc="268436119" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="68" pc="268436133" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="69" pc="268436169" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="70" pc="268436253" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="71" pc="268436278" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="72" pc="268436285" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="73" pc="268436322" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="75" pc="268436332" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="77" pc="268436453" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="78" pc="268436489" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="81" pc="268436596" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="83" pc="268436600" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="84" pc="268436617" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="85" pc="268436649" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="87" pc="268436700" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="88" pc="268436732" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="90" pc="268436783" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="91" pc="268436815" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="93" pc="268436866" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="94" pc="268436898" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="96" pc="268436949" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="97" pc="268436981" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="99" pc="268437032" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="100" pc="268437064" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="102" pc="268437115" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="103" pc="268437147" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="105" pc="268437198" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="106" pc="268437230" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="108" pc="268437281" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="109" pc="268437313" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="111" pc="268437364" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="112" pc="268437396" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="114" pc="268437447" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="115" pc="268437479" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="117" pc="268437530" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="118" pc="268437562" symbol="drawPoppies"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="125" pc="268437614" symbol="onHide"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="129" pc="268437619" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceView.mc" lineNum="133" pc="268437624" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceBackground.mc" lineNum="7" pc="268437629" symbol="initialize"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceBackground.mc" lineNum="8" pc="268437633" symbol="initialize"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceBackground.mc" lineNum="12" pc="268437654" symbol="initialize"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceBackground.mc" lineNum="15" pc="268437675" symbol="draw"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceBackground.mc" lineNum="17" pc="268437679" symbol="draw"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceBackground.mc" lineNum="18" pc="268437732" symbol="draw"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceApp.mc" lineNum="6" pc="268437745" symbol="initialize"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceApp.mc" lineNum="7" pc="268437749" symbol="initialize"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceApp.mc" lineNum="11" pc="268437768" symbol="onStart"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceApp.mc" lineNum="15" pc="268437773" symbol="onStop"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceApp.mc" lineNum="19" pc="268437778" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceApp.mc" lineNum="20" pc="268437782" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceApp.mc" lineNum="24" pc="268437820" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\Fred\\workspace\\RemembranceFace\\source\\RemembranceFaceApp.mc" lineNum="25" pc="268437824" symbol="onSettingsChanged"/>
+<entry filename="Rez" lineNum="21" pc="268437841" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="25" pc="268437853" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="26" pc="268437877" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="27" pc="268438040" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="28" pc="268438065" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="29" pc="268438117" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="32" pc="268438163" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="10" object="true" symbol="RemembranceFaceApp"/>
+<entry field="true" id="13" symbol="Poppy"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="9" object="true" symbol="RemembranceFaceView"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="16" symbol="AppName"/>
+<entry id="20" method="true" symbol="drawPoppies"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8390146" module="true" object="true" symbol="Background"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="18" symbol="originY"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="17" symbol="originX"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="8389892" symbol="background"/>
+<entry field="true" id="15" symbol="MilitaryFormatTitle"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="19" symbol="poppy"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435797" name="deviceSettings" stackId="2" startPc="268435483"/>
+<entry endPc="268435797" name="screenShape" stackId="3" startPc="268435483"/>
+<entry endPc="268435798" name="dc" stackId="1" startPc="268435479"/>
+<entry endPc="268436450" name="ampm" stackId="8" startPc="268436278"/>
+<entry endPc="268436595" name="hours" stackId="6" startPc="268435807"/>
+<entry endPc="268436595" name="today" stackId="3" startPc="268435807"/>
+<entry endPc="268436595" name="now" stackId="2" startPc="268435807"/>
+<entry endPc="268436595" name="timeString" stackId="7" startPc="268435807"/>
+<entry endPc="268436595" name="clockTime" stackId="5" startPc="268435807"/>
+<entry endPc="268436595" name="timeFormat" stackId="4" startPc="268435807"/>
+<entry endPc="268436596" name="dc" stackId="1" startPc="268435803"/>
+<entry endPc="268437613" name="info" stackId="2" startPc="268436600"/>
+<entry endPc="268437614" name="dc" stackId="1" startPc="268436596"/>
+<entry endPc="268437674" name="dictionary" stackId="1" startPc="268437633"/>
+<entry endPc="268437745" name="dc" stackId="1" startPc="268437675"/>
+<entry endPc="268437773" name="state" stackId="1" startPc="268437768"/>
+<entry endPc="268437778" name="state" stackId="1" startPc="268437773"/>
+<entry endPc="268438190" name="rez_cmp_local_bitmap_TimeLabel" stackId="3" startPc="268437853"/>
+<entry endPc="268438190" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="4" startPc="268437853"/>
+<entry endPc="268438190" name="rez_cmp_local_custom_drawable_MTJ2RH3BLOHL9AI2PRYK" stackId="2" startPc="268437853"/>
+<entry endPc="268438191" name="dc" stackId="1" startPc="268437841"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="RemembranceFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="RemembranceFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="RemembranceFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="RemembranceFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawPoppies" parent="RemembranceFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="RemembranceFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="RemembranceFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="RemembranceFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="RemembranceFaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="RemembranceFaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="RemembranceFaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="RemembranceFaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="RemembranceFaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="182" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry offset="237" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="316" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="371" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="402" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="433" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="464" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="503" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="550" parentId="globals" symbolId="RemembranceFaceApp" type="class"/>
+<dataEntry offset="629" parentId="globals" symbolId="RemembranceFaceView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
